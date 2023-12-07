@@ -1,0 +1,46 @@
+spring:
+  application:
+    name: micr-web
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  redis:
+    host: 192.168.170.128
+    port: 6379
+
+#端口号
+server:
+  port: 8000
+  servlet:
+    context-path: /api
+    encoding:
+      enabled: true
+      charset: utf-8
+      force: true
+
+#dubbo配置
+dubbo:
+  registry:
+    address: zookeeper://localhost:2181
+  scan:
+    base-packages: com.bjpowernode.front
+  consumer:
+    check: false
+    timeout: 50000
+    retries: 0
+
+#短信配置
+jdwx:
+  sms:
+    url: https://way.jd.com/chuangxin/dxjk
+    appkey: 3680fa919b771148da626bbcbd459475
+    content: 【大富科技】你的验证码是：%s，3分钟内有效，请勿泄露给他人
+    login-text: 【大富科技】登录验证码是：%s，3分钟内有效，请勿泄露给他人
+  realname:
+    url: https://way.jd.com/youhuoBeijing/test
+    appkey: 3680fa919b771148da626bbcbd459475
+
+jwt:
+  secret: 5f41c1afdcc0487ca8eb8ea8863e47e3
+
+

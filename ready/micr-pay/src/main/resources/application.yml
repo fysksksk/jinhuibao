@@ -1,0 +1,23 @@
+server:
+  port: 9000
+  servlet:
+    context-path: /pay
+
+spring:
+  thymeleaf:
+    cache: false
+  application:
+    name: micr-pay
+  redis:
+    host: 192.168.170.128
+    port: 6379
+
+dubbo:
+  registry:
+    address: zookeeper://localhost:2181
+  scan:
+    base-packages: com.bjpowernode.pay
+  consumer:
+    check: false
+    timeout: 60000
+    retries: 0
