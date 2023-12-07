@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="kq-demo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6039ffa8-885f-4aa2-896e-867986541406" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Java\maven\maven_repository" />
+        <option name="mavenHome" value="D:/Program Files/Java/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Program Files\Java\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2VqM5uGKaBdB3HOLoCS2r1Xhvef" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/micr-pay/src/main/java/com/bjpowernode/pay/util" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yu\IdeaProjects\ready\micr-pay\src\main\java\com\bjpowernode\pay\util" />
+      <recent name="C:\Users\yu\IdeaProjects\ready\micr-pay\src\main\resources\templates" />
+      <recent name="C:\Users\yu\IdeaProjects\ready\micr-pay\src\main\resources" />
+      <recent name="C:\Users\yu\IdeaProjects\ready\kq-demo\src\main\java\Util" />
+      <recent name="C:\Users\yu\IdeaProjects\ready\kq-demo\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yu\IdeaProjects\ready\ready-04-mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bjpowernode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bjpowernode.front.config" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn rm -rf ~/.m2/repository/com/alibaba/fastjson/1.2.51" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.micr-web">
+    <configuration name="JwtTest.testCreateJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micr-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpowernode" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.JwtTest" />
+      <option name="METHOD_NAME" value="testCreateJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtTest.testReadJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micr-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpowernode" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.JwtTest" />
+      <option name="METHOD_NAME" value="testReadJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ready-02-httpclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpowernode" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestClient" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient.testHttpPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ready-02-httpclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpowernode" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestClient" />
+      <option name="METHOD_NAME" value="testHttpPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJSON.testRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ready-01-fastjson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpowernode" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.TestJSON" />
+      <option name="METHOD_NAME" value="testRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="micr-dataservice" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micr-dataservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjpowernode.dataservice.MicrDataserviceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="micr-pay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micr-pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjpowernode.pay.MicrPayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="micr-task" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micr-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjpowernode.MicrTaskApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="micr-web" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micr-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjpowernode.front.MicrWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="kq-demo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/kq" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2df572b5-c46a-4b5a-ab10-7d4217d03a87" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50337" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="kq-demo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestClient.testGet" />
+      <item itemvalue="JUnit.TestClient.testHttpPost" />
+      <item itemvalue="JUnit.TestJSON.testRead" />
+      <item itemvalue="JUnit.JwtTest.testCreateJwt" />
+      <item itemvalue="JUnit.JwtTest.testReadJwt" />
+      <item itemvalue="Spring Boot.micr-dataservice" />
+      <item itemvalue="Spring Boot.micr-web" />
+      <item itemvalue="Spring Boot.micr-task" />
+      <item itemvalue="Spring Boot.micr-pay" />
+      <item itemvalue="Tomcat Server.Tomcat 10.0.27" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JwtTest.testReadJwt" />
+        <item itemvalue="JUnit.JwtTest.testCreateJwt" />
+        <item itemvalue="JUnit.TestClient.testHttpPost" />
+        <item itemvalue="JUnit.TestClient.testGet" />
+        <item itemvalue="JUnit.TestJSON.testRead" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6039ffa8-885f-4aa2-896e-867986541406" name="Changes" comment="" />
+      <created>1695558976929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695558976929</updated>
+      <workItem from="1695558978331" duration="1152000" />
+      <workItem from="1695560154159" duration="646000" />
+      <workItem from="1695560838083" duration="77000" />
+      <workItem from="1695560937079" duration="118000" />
+      <workItem from="1695561077231" duration="2003000" />
+      <workItem from="1695618550714" duration="4000" />
+      <workItem from="1695618577420" duration="4000" />
+      <workItem from="1695618625489" duration="34000" />
+      <workItem from="1695737267754" duration="2080000" />
+      <workItem from="1695792289645" duration="14000" />
+      <workItem from="1695798162109" duration="1362000" />
+      <workItem from="1695818261215" duration="1165000" />
+      <workItem from="1695958727820" duration="3000" />
+      <workItem from="1695979353034" duration="406000" />
+      <workItem from="1696043280837" duration="11000" />
+      <workItem from="1696065595509" duration="1593000" />
+      <workItem from="1696075034307" duration="2686000" />
+      <workItem from="1696131425968" duration="8000" />
+      <workItem from="1696131463567" duration="5000" />
+      <workItem from="1696151502438" duration="447000" />
+      <workItem from="1696171359874" duration="784000" />
+      <workItem from="1696217447807" duration="1000" />
+      <workItem from="1696222931236" duration="361000" />
+      <workItem from="1696246896975" duration="2064000" />
+      <workItem from="1696248998923" duration="68000" />
+      <workItem from="1696249086243" duration="593000" />
+      <workItem from="1696304631694" duration="21000" />
+      <workItem from="1696318213649" duration="3944000" />
+      <workItem from="1696400473562" duration="6000" />
+      <workItem from="1696400524777" duration="25000" />
+      <workItem from="1696404326035" duration="4069000" />
+      <workItem from="1696581931687" duration="26000" />
+      <workItem from="1696589364795" duration="4464000" />
+      <workItem from="1696646366630" duration="169000" />
+      <workItem from="1696660738222" duration="2667000" />
+      <workItem from="1696663447865" duration="855000" />
+      <workItem from="1696664323925" duration="837000" />
+      <workItem from="1696665270682" duration="410000" />
+      <workItem from="1696665698211" duration="428000" />
+      <workItem from="1696667015522" duration="270000" />
+      <workItem from="1696667446749" duration="710000" />
+      <workItem from="1696668194698" duration="112000" />
+      <workItem from="1696675209939" duration="1782000" />
+      <workItem from="1696743097245" duration="9000" />
+      <workItem from="1696766646325" duration="608000" />
+      <workItem from="1696827693160" duration="20000" />
+      <workItem from="1696850429220" duration="608000" />
+      <workItem from="1696854842776" duration="1157000" />
+      <workItem from="1696856024417" duration="1467000" />
+      <workItem from="1696914249801" duration="38000" />
+      <workItem from="1696936356705" duration="643000" />
+      <workItem from="1696937849416" duration="2531000" />
+      <workItem from="1697000408933" duration="32000" />
+      <workItem from="1697004020079" duration="2573000" />
+      <workItem from="1697026100005" duration="3864000" />
+      <workItem from="1697076445979" duration="31000" />
+      <workItem from="1697089312566" duration="3386000" />
+      <workItem from="1697093720795" duration="577000" />
+      <workItem from="1697173559394" duration="526000" />
+      <workItem from="1697186593309" duration="2909000" />
+      <workItem from="1697194961768" duration="867000" />
+      <workItem from="1697247995057" duration="68000" />
+      <workItem from="1697357255644" duration="4671000" />
+      <workItem from="1697368327347" duration="1885000" />
+      <workItem from="1697419537771" duration="308000" />
+      <workItem from="1697435657061" duration="346000" />
+      <workItem from="1697436017190" duration="343000" />
+      <workItem from="1697436636442" duration="151000" />
+      <workItem from="1697454034151" duration="7613000" />
+      <workItem from="1697518491922" duration="36000" />
+      <workItem from="1697543361320" duration="2596000" />
+      <workItem from="1697681613222" duration="23000" />
+      <workItem from="1697691673051" duration="376000" />
+      <workItem from="1697692329923" duration="2605000" />
+      <workItem from="1697768316951" duration="27000" />
+      <workItem from="1697791342851" duration="821000" />
+      <workItem from="1697792381606" duration="1764000" />
+      <workItem from="1697805012153" duration="1234000" />
+      <workItem from="1697852777127" duration="140000" />
+      <workItem from="1697868966050" duration="4441000" />
+      <workItem from="1697937720800" duration="20000" />
+      <workItem from="1697951953128" duration="5900000" />
+      <workItem from="1697975270699" duration="1346000" />
+      <workItem from="1698058969541" duration="6018000" />
+      <workItem from="1698065100965" duration="129000" />
+      <workItem from="1698124556327" duration="30000" />
+      <workItem from="1698147726030" duration="4409000" />
+      <workItem from="1698214937139" duration="4860000" />
+      <workItem from="1698224536080" duration="1417000" />
+      <workItem from="1698237477406" duration="1681000" />
+      <workItem from="1698285964519" duration="62000" />
+      <workItem from="1698305857488" duration="3870000" />
+      <workItem from="1698458456708" duration="380000" />
+      <workItem from="1698477560363" duration="3169000" />
+      <workItem from="1698481467922" duration="2829000" />
+      <workItem from="1698544861463" duration="41000" />
+      <workItem from="1698563016522" duration="6600000" />
+      <workItem from="1698639364974" duration="603000" />
+      <workItem from="1698664591221" duration="4487000" />
+      <workItem from="1698728382233" duration="28000" />
+      <workItem from="1698753025107" duration="3201000" />
+      <workItem from="1698799992177" duration="120000" />
+      <workItem from="1698816357770" duration="7996000" />
+      <workItem from="1698887812932" duration="27000" />
+      <workItem from="1698902957756" duration="7400000" />
+      <workItem from="1698926279913" duration="11074000" />
+      <workItem from="1698974947221" duration="137000" />
+      <workItem from="1698989892390" duration="2233000" />
+      <workItem from="1699002964968" duration="587000" />
+      <workItem from="1699011136721" duration="1490000" />
+      <workItem from="1699062604829" duration="52000" />
+      <workItem from="1699084178229" duration="32000" />
+      <workItem from="1699084257582" duration="14000" />
+      <workItem from="1699084834334" duration="46000" />
+      <workItem from="1699084908734" duration="23000" />
+      <workItem from="1699085211920" duration="36000" />
+      <workItem from="1699086106728" duration="1008000" />
+      <workItem from="1699167334762" duration="1928000" />
+      <workItem from="1699173788550" duration="15000" />
+      <workItem from="1699186198498" duration="1366000" />
+      <workItem from="1699189436542" duration="507000" />
+      <workItem from="1699191536257" duration="27000" />
+      <workItem from="1699191626129" duration="43000" />
+      <workItem from="1699271992958" duration="666000" />
+      <workItem from="1699333199178" duration="20000" />
+      <workItem from="1699435365967" duration="997000" />
+      <workItem from="1701572682137" duration="546000" />
+      <workItem from="1701573360454" duration="397000" />
+      <workItem from="1701595998203" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
